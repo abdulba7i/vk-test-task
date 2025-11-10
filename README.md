@@ -1,7 +1,4 @@
-
 # 🎬 Фильмотека
-
-Тестовое задание от **VK** на позицию **Junior Golang-разработчика**.
 
 ## 📌 Задача
 
@@ -73,7 +70,7 @@
 * Docker
 * Docker Compose
 * Env
-### Добавьте env файл
+### Добавьте .env файл
 ```
 DB_HOST=vk-test-db
 DB_PORT=5432
